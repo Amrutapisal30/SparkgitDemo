@@ -15,6 +15,10 @@ main()
 	
 	printf("\n bid=%d bname=%s bprice=%f",b1.bid,b1.bname,b1.bprice);
 	printf("\n bid=%d bname=%s bprice=%f",b2.bid,b2.bname,b2.bprice);
-	printf("\n bid=%d bname=%s bprice=%f",b3.bid,b3.bname,b3.bprice);
+
+
+	
+		printf("book id=101");
+	printf("book name=java");
 	
 }
